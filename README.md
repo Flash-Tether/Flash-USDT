@@ -1,4 +1,4 @@
-# Flash-Tether-USDT-
+# Flash-Tether-USDT
 Increase your Tether by up to 20x on TRC20 and ERC20 networks
 
 Flash Tether or Black Tether is a type of USDT that appears in wallets through fake confirmations and data manipulation. It is exactly the same as real USDT, meaning it can be transferred, spent, and used like legitimate Tether.
